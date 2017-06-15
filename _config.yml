@@ -1,22 +1,22 @@
 # Basic
-title: 林先生
-subtitle: 个人站
-description: 斜风细雨不须归~
+title: 和君十届京7班
+subtitle: 班级站点
+description: 风生水起，和君笑看天高云淡；沧海横流，京七共显英雄本色~
 # 头像里面的标题
-avatarTitle: Mr.Lin
+avatarTitle: 京7班
 # 头像里面的描述
-avatarDesc: learning / thinking / feeling
+avatarDesc: 和君同行，人生风景
 url: "https://hejun1007bj.github.io/"
 
 # Comment
 comment:
     # disqus: leopard
-    duoshuo: mrlin
+    duoshuo: 和君十届京7班
 
 # Social
 social:
-    weibo: mrlin 
-    github: mrlin
+    weibo: 和君十届京7班
+    github: 和君十届京7班
     # twitter: 
     mail: smoothwind@foxmail.com
 
@@ -53,13 +53,13 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: 班级主页
 
 # Navigation buttons in the front page.s
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 主题分类, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+    - {title: 关于我们, description: about, url: '/about'}      
     
 
 # Pagination
